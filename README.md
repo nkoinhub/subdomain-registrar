@@ -1,3 +1,4 @@
+# Temporary copy for me. Nik Karkhanis.
 # ENS Subdomain registrar
 
 [![Build Status](https://travis-ci.org/ensdomains/subdomain-registrar.svg?branch=master)](https://travis-ci.org/ensdomains/subdomain-registrar) [![License](https://img.shields.io/badge/License-BSD--2--Clause-blue.svg)](LICENSE)
